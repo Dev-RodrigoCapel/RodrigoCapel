@@ -17,7 +17,7 @@
   ##
  
 <div> 
-  <a href=" http://api.whatsapp.com/send?phone=65992544447" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-006400?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href=" http://api.whatsapp.com/send?phone=65992544447" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   <a href = "mailto:rodrigocapel_mcd@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodrigo-capel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
